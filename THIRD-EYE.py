@@ -61,7 +61,7 @@ class MainLoop():
         global Close, Request, Tot_req
         print \
 ("""
-MYSTERIES-TEAM
+THIRD-EYE BD
 """)
         try:
             url = sys.argv[1]
